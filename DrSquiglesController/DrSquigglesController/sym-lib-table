@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Teensy)(type Legacy)(uri ${KIPRJMOD}/Library/Symbol/Teensy.lib)(options "")(descr ""))
+  (lib (name D24V22F5)(type Legacy)(uri ${KIPRJMOD}/Library/Symbol/D24V22F5.lib)(options "")(descr ""))
+)

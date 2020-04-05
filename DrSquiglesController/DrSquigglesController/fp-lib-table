@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Teensy)(type KiCad)(uri ${KIPRJMOD}/Library/Footprint/Teensy.pretty)(options "")(descr ""))
+  (lib (name D24V22F5)(type KiCad)(uri ${KIPRJMOD}/Library/Footprint/D24V22F5.pretty)(options "")(descr ""))
+  (lib (name Footprint)(type KiCad)(uri ${KIPRJMOD}/Library/Footprint)(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D24V22F5
+D Pololu 5V, 2.5A Step-Down Voltage Regulator
+F https://www.pololu.com/product/2858
+$ENDCMP
+#
+#End Doc Library

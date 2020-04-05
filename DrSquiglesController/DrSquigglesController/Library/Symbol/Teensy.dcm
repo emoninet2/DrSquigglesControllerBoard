@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP teensy_3_2
+F https://www.pjrc.com/store/teensy32.html
+$ENDCMP
+#
+#End Doc Library
